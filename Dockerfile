@@ -17,6 +17,8 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 RUN composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/
 #RUN composer config -g repos.packagist composer https://mirrors.cloud.tencent.com/composer/
 
+## 
+
 
 
 
